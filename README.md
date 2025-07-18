@@ -19,7 +19,7 @@
 
 | Светлая тема | Тёмная тема |
 |--------------|--------------|
-| ![Светлая тема](assets/screenshot-light.png) | ![Тёмная тема](assets/screenshot-dark.png) |
+| ![Светлая тема](src/assets/screenshot-light.png) | ![Тёмная тема](src/assets/screenshot-dark.png) |
 
 ## ⚙️ Установка
 
